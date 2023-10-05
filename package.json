@@ -2,7 +2,7 @@
   "name": "one-nz",
   "private": true,
   "version": "1.2.2",
-  "description": "Starter project for Adobe Helix",
+  "description": "Implemented https://one.nz/help/ page",
   "scripts": {
     "lint:js": "eslint .",
     "lint:css": "stylelint blocks/**/*.css styles/*.css",
